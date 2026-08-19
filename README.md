@@ -45,12 +45,16 @@ assumptions, limits duplicate alerts, and sends qualified results to Telegram.
 
 ## Experience
 
-I currently work across enterprise AI strategy, agent development, governance, automation, IT
-operations, Microsoft 365, learning platforms, infrastructure, and internal application support.
-I also build frontend, IoT, and AI systems on a freelance basis.
+I currently lead enterprise AI strategy, governance, agent development, and automation at **Pnyx
+Hill**, while serving as **Senior IT Specialist at Globaltraining / University of Nicosia**.
 
-My earlier work includes technical support, account administration, staff onboarding, networking,
-hardware diagnostics, and internal knowledge documentation.
+My operational scope includes support for 200+ staff and platform users, Microsoft 365
+administration, device lifecycle management, onboarding and offboarding, MFA and access controls,
+asset tracking, knowledge documentation, and learning platforms. I also build frontend, IoT, and
+AI systems on a freelance basis.
+
+My earlier work includes technical support, account administration, networking, hardware
+repair and diagnostics, web platforms, and end-user training.
 
 ## Tools I use
 
@@ -59,8 +63,13 @@ hardware diagnostics, and internal knowledge documentation.
 | AI and automation | Python, local LLMs, Ollama, OpenAI API, Google ADK, Hugging Face, n8n |
 | Product engineering | TypeScript, React, Next.js, Node.js, NestJS, FastAPI, REST APIs |
 | Data and infrastructure | Docker, Linux, GitHub Actions, Cloud Run, SQLite, PostgreSQL |
-| Blockchain | Ethereum, Solidity, Hyperledger, Polygon, digital payments |
-| IT platforms | Microsoft 365, SharePoint, Active Directory, Jira, Moodle, Blackboard Ultra |
+| Blockchain and research | Ethereum, Solidity, Hyperledger, Polygon, Web3, smart contracts, digital assets |
+| IT platforms | Microsoft 365, SharePoint, OneDrive, Active Directory, Jira, Blackboard Ultra, Moodle, TalentLMS, SCORM, Accredible, Engageli |
+| Networking and security | MFA, VPN, DNS, DHCP, TCP/IP, access controls, device and asset lifecycle |
+
+## Languages
+
+English and Arabic fluent · Greek intermediate · German basic
 
 ## Education
 
