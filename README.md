@@ -1,7 +1,5 @@
 # Mustafa Jweed
 
-<img align="right" src="https://itstofi.github.io/assets/mustafa-jweed-portrait.jpg" width="180" alt="Portrait of Mustafa Jweed">
-
 **AI Lead · AI Engineer · IT Systems Specialist**  
 Nicosia, Cyprus
 
