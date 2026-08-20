@@ -32,6 +32,13 @@ workspace-isolated retrieval and inspectable source citations.
 **Engineering signals:** automated tests, static typing, offline RAG evaluation, migrations,
 Docker, CI, security documentation, and fictional sample documents.
 
+### [Nature and Facilities Protector](https://github.com/itstofi/nature-facilities-protector)
+
+A security-clean reconstruction of my 2024 Computer Engineering final-year prototype. It combines
+modular WisBlock sensing, RAK4631 firmware, LoRaWAN telemetry, exact 13/15-byte payload
+compatibility, cross-language decoders, compiled firmware checks, and a sanitized public case
+study. It is documented honestly as an academic prototype—not a certified life-safety system.
+
 ### [Crypto Payment Gateway](https://github.com/itstofi/crypto-payment-gateway)
 
 A Next.js and Supabase payment-flow demonstration with an isolated local demo mode, Binance Pay
